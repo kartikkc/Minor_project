@@ -1,0 +1,6 @@
+2024-09-20 22:22:19 - USB storage device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 22:22:43 - USB storage device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 22:22:54 - USB storage device connected: {'Vendor ID': '0x781', 'Product ID': '0x5581', 'Manufacturer': ' USB', 'Product': ' SanDisk 3.2Gen1', 'Serial Number': '0401345606588f05df73f1d1f269f986438b2bae4ddd54483325df10c414e26f0afc00000000000000000000eadbde6700137b18815581075a2e11aa'}
+2024-09-20 22:23:23 - USB storage device connected: {'Vendor ID': '0x781', 'Product ID': '0x558a', 'Manufacturer': 'SanDisk', 'Product': 'Ultra', 'Serial Number': '4C530001050123108551'}
+2024-09-20 22:23:45 - USB storage device connected: {'Vendor ID': '0x781', 'Product ID': '0x5591', 'Manufacturer': ' USB', 'Product': ' SanDisk 3.2Gen1', 'Serial Number': '04013807041fcff77455130975313c844595f0342278f53802dc94012b5aafe011ca00000000000000000000c027b589ff1764189155810750aaa990'}
+2024-09-20 22:24:18 - USB storage device connected: {'Vendor ID': '0x951', 'Product ID': '0x1666', 'Manufacturer': 'Kingston', 'Product': 'DataTraveler 3.0', 'Serial Number': '20CF30E117A2F3C126350119'}

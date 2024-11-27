@@ -1,0 +1,126 @@
+2024-09-20 20:41:31 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:32 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:33 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:34 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:35 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:36 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:37 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:38 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:39 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:41:40 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': None, 'Product': None, 'Serial Number': None}
+2024-09-20 20:42:23 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:24 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:25 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:26 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:27 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:28 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:29 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:30 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:31 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:42:32 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': None}
+2024-09-20 20:54:38 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:39 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:40 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:41 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:42 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:43 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:44 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:45 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 20:54:46 - USB device connected: {'Vendor ID': '0xd8c', 'Product ID': '0x12', 'Manufacturer': 'C-Media Electronics Inc.\x00\x00\x00\x00\x00\x00', 'Product': 'USB Audio Device\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'Serial Number': 'N/A'}
+2024-09-20 21:45:13 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:14 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:15 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:16 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:17 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:18 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:19 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:20 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 21:45:46 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:47 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:48 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:49 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:50 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:51 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:52 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:53 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:54 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:55 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:45:55 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:56 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:45:56 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:57 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:45:57 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:58 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:45:58 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:45:59 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:45:59 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:00 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:00 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:01 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:01 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:02 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:02 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:03 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:03 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:04 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:04 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:05 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:05 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:06 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:06 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:07 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:07 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:08 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:08 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:09 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:09 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:10 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:10 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:11 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:11 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:12 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:12 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:13 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:14 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:15 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:16 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:17 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:17 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:18 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:18 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:19 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:19 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:20 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:20 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:21 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:21 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:22 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:22 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:23 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:23 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:24 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:24 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 21:46:25 - USB device connected: {'Vendor ID': '0x4d9', 'Product ID': '0xa1cd', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 21:46:25 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 22:17:58 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x3', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:17:58 - USB device connected: {'Vendor ID': '0x408', 'Product ID': '0xa061', 'Manufacturer': 'SunplusIT Inc', 'Product': 'HD User Facing', 'Serial Number': 'N/A'}
+2024-09-20 22:17:58 - USB device connected: {'Vendor ID': '0x8087', 'Product ID': '0x26', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 22:17:58 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 22:17:58 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x2', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:18:08 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 22:18:08 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x3', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:18:08 - USB device connected: {'Vendor ID': '0x408', 'Product ID': '0xa061', 'Manufacturer': 'SunplusIT Inc', 'Product': 'HD User Facing', 'Serial Number': 'N/A'}
+2024-09-20 22:18:08 - USB device connected: {'Vendor ID': '0x8087', 'Product ID': '0x26', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 22:18:08 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 22:18:08 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x2', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:18:18 - USB device connected: {'Vendor ID': '0x3f0', 'Product ID': '0x9140', 'Manufacturer': 'HP', 'Product': 'x740w', 'Serial Number': '6E00018C37A79763'}
+2024-09-20 22:18:18 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x3', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:18:18 - USB device connected: {'Vendor ID': '0x408', 'Product ID': '0xa061', 'Manufacturer': 'SunplusIT Inc', 'Product': 'HD User Facing', 'Serial Number': 'N/A'}
+2024-09-20 22:18:18 - USB device connected: {'Vendor ID': '0x8087', 'Product ID': '0x26', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 22:18:18 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 22:18:18 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x2', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:18:28 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x3', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}
+2024-09-20 22:18:28 - USB device connected: {'Vendor ID': '0x408', 'Product ID': '0xa061', 'Manufacturer': 'SunplusIT Inc', 'Product': 'HD User Facing', 'Serial Number': 'N/A'}
+2024-09-20 22:18:28 - USB device connected: {'Vendor ID': '0x8087', 'Product ID': '0x26', 'Manufacturer': 'N/A', 'Product': 'N/A', 'Serial Number': 'N/A'}
+2024-09-20 22:18:28 - USB device connected: {'Vendor ID': '0x248a', 'Product ID': '0x5b2e', 'Manufacturer': 'XCTECH', 'Product': 'USB Gaming Mouse', 'Serial Number': 'N/A'}
+2024-09-20 22:18:28 - USB device connected: {'Vendor ID': '0x1d6b', 'Product ID': '0x2', 'Manufacturer': 'Linux 6.8.0-39-generic xhci-hcd', 'Product': 'xHCI Host Controller', 'Serial Number': '0000:00:14.0'}

@@ -1,0 +1,10 @@
+File,Size,SHA-256 Hash,VirusTotal Status
+/media/kartik/ESD-USB/autorun.inf,128 bytes,3378723cb5910e5f3afe1ee2200b8f0d08bab8c5d77f7ce9fcb5725aff525852,No detections
+/media/kartik/ESD-USB/bootmgr,"409,654 bytes",98cd8ef5b0e04b9ceeba5dc3766c2b2ffd31b1fccdaffbd9448dcc0f68364f9b,No detections
+/media/kartik/ESD-USB/bootmgr.efi,"1,509,688 bytes",36cdbe2a727939153342fa2d3cf97097ef20f72bca1540cf0124791563a70181,No detections
+/media/kartik/ESD-USB/setup.exe,"73,904 bytes",53c896caa3ff313398534d9f1f8ab3268df93d7e27eb88dd54022bbe26307e0b,No detections
+/media/kartik/ESD-USB/eicar.com,69 bytes,131f95c51cc819465fa1797f6ccacf9d494aaaff46fa3eac73ae63ffbdfd8267,62/69 detections
+/media/kartik/ESD-USB/System Volume Information/WPSettings.dat,12 bytes,1661d08109cff4abd173854111870e5ed9d51ddf4ad6a2c76aceedbf45382755,File not found in VT database
+/media/kartik/ESD-USB/System Volume Information/IndexerVolumeGuid,76 bytes,e6fe16a17c2a029aa05fe8305e9328c0092671ddbbfb1bb53cfac3b6dd51f315,File not found in VT database
+/media/kartik/ESD-USB/boot/bcd,"16,384 bytes",87073384b81acf14653802cbe79a42ae93573cd6c074cd76b3f748d096eb4749,No detections
+/media/kartik/ESD-USB/boot/boot.sdi,"3,170,304 bytes",cd2c00ce027687ce4a8bdc967f26a8ab82f651c9becd703658ba282ec49702bd,No detections
